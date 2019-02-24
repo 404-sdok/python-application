@@ -13,7 +13,6 @@ account = {
           }
         }
        
-
 wihle(1):
       print('naver,facebook,kakao?',end='')
      result = input()
