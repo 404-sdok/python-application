@@ -5,4 +5,4 @@
 3. app.py로 코딩하고 커밋한다.
 0. 예시: https://github.com/404-sdok/python-application/blob/master/kpjhg0124/app.py
 
-브랜치  설명: https://github.com/404-sdok/how-to-github/blob/master/git-branch.md
+브랜치 설명: https://github.com/404-sdok/how-to-github/blob/master/git-branch.md
