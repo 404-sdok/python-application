@@ -13,7 +13,7 @@ account = {
           }
         }
        
-wihle(1):
+while(1):
       print('naver,facebook,kakao?',end='')
      result = input()
      if result in ['naver','facebook','kakao']:
